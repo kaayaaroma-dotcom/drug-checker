@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# 不要なバックアップ
+*.bak
